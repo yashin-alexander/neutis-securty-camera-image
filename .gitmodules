@@ -12,8 +12,8 @@
 	branch = sumo
 [submodule "meta-layers/meta-emlid-neutis"]
 	path = meta-layers/meta-emlid-neutis
-	url = https://github.com/Neutis/meta-emlid-neutis.git
-	branch = sumo
+	url = https://github.com/yashin-alexander/meta-emlid-neutis.git
+	branch = security-camera
 [submodule "meta-layers/meta-emlid-neutis-manufacturing"]
 	path = meta-layers/meta-emlid-neutis-manufacturing
 	url = https://github.com/Neutis/meta-emlid-neutis-manufacturing.git
